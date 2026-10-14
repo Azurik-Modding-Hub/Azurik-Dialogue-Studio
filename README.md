@@ -21,6 +21,16 @@ Download the Windows ZIP, extract it and double-click **`windows/Azurik Dialogue
 
 All processing runs locally. No account, subscription, payment, voice cloning or online AI service is needed. **Game files and personal recordings are not included.**
 
+## Interface illustrations
+
+![Dialogue panels, TXT import and PNG replacement](docs/screenshots/dialogue-editor-1.0.0.png)
+
+![Oracle voice preview, replacement and audio settings](docs/screenshots/oracle-voice-editor-1.0.0.png)
+
+The version 1.0.0 interface is rendered with an isolated demonstration project.
+The voice example uses synthetic audio. These illustrations show editing tools;
+in-game playback validation remains separate.
+
 ## Quick start
 
 1. Choose **File → Open game folder** or **Open ISO**.

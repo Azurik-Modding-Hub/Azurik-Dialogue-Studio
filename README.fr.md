@@ -21,6 +21,16 @@ Décompressez la distribution, puis lancez **`windows/Azurik Dialogue Studio.exe
 
 Tous les traitements fonctionnent localement. Aucun compte, abonnement, paiement, clonage vocal ou service d’IA n’est nécessaire. Le jeu et ses ressources ne sont pas inclus dans la distribution.
 
+## Illustrations de l’interface
+
+![Panneaux de dialogue, import TXT et remplacement PNG](docs/screenshots/dialogue-editor-1.0.0.png)
+
+![Voix des oracles et réglages audio](docs/screenshots/oracle-voice-editor-1.0.0.png)
+
+Interface de la version 1.0.0 rendue avec un projet de démonstration isolé.
+L’exemple de voix utilise un son synthétique. Ces images illustrent les outils
+d’édition ; la validation du résultat dans le jeu reste distincte.
+
 EDIT : You need to clear the cache for the changes you make to take effect ! Don’t worry, this won’t affect your save files in any way!
 
 ## Première utilisation
